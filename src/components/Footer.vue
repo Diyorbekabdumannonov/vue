@@ -7,8 +7,8 @@
             </li>
         </ul>
         <div class="flex justify-between items-center p-8 mt-8">
-            <img src="./../assets/Social icons.png" alt="social media" class="cursor-pointer">
-            <img src="./../assets/Powered by Reflaunt.png" alt="social media">
+            <img src="./../assets/Socialicons.png" alt="social media" class="cursor-pointer">
+            <img src="./../assets/PoweredbyReflaunt.png" alt="social media">
             <div></div>
         </div>
     </div>

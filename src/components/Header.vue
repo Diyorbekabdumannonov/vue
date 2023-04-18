@@ -1,6 +1,7 @@
 <template>
-    <div class="bg-banner flex items-center justify-center py-48 bg-no-repeat bg-cover">
-        <h1 class="text-white font-normal text-5xl text-center leading-tight">Resell and refresh your wardrobe with us and
+    <div class="relative flex items-center justify-center py-48 bg-no-repeat bg-cover">
+        <img src="./../assets/banner.png" alt="banner" class="absolute w-full h-full object-cover">
+        <h1 class="text-white font-normal relative text-5xl text-center leading-tight">Resell and refresh your wardrobe with us and
             <br> enjoy MR PORTER store credit
         </h1>
     </div>
